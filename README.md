@@ -8,4 +8,4 @@
 |---|---|:---:|---|---|
 |2020-06-08|[2028. 자기복제수](https://www.acmicpc.net/problem/2028)|✅|[python](P2028.py)||
 |2020-06-08|[5397. 키로거](https://www.acmicpc.net/problem/5397)|🟨|[python](P5397.py)||
-|2020-06-09|[2684. 동전 게임](https://www.acmicpc.net/problem/2684)|✅|[python](P2684.py)||
+|2020-06-09|[2684. 동전 게임](https://www.acmicpc.net/problem/2684)|✅|[python](P2684.py)|주석|
