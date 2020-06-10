@@ -65,7 +65,8 @@ def append_readme(*args):
             level = p.get("level")
             f.write(f"|{dt.date.today()}|[{code}. {title}](https://www.acmicpc.net/problem/{code})|⬛|[python](P{code}.py)||\n")
             with open(f"P{code}.py", "w", encoding="utf-8") as f2:
-                f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {LEVEL_NAME[level]}\n")
+                f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
+            print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
 
 
 def main():
