@@ -63,7 +63,7 @@ def append_readme(*args):
             p = get_problem(code)
             title = p.get("title")
             level = p.get("level")
-            f.write(f"|{dt.date.today()}|[{code}. {title}](https://www.acmicpc.net/problem/{code})|⬛|[python](P{code}.py)||\n")
+            f.write(f"|{dt.date.today()}|<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"16px\"/>|[{code}. {title}](https://www.acmicpc.net/problem/{code})|⬛|[python](P{code}.py)||\n")
             with open(f"P{code}.py", "w", encoding="utf-8") as f2:
                 f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
             print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
