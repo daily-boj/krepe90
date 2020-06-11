@@ -1,6 +1,7 @@
 import datetime as dt
 import argparse
 import requests
+import os
 
 LEVEL_NAME = [
     "UNRATED",
@@ -63,10 +64,21 @@ def append_readme(*args):
             p = get_problem(code)
             title = p.get("title")
             level = p.get("level")
-            f.write(f"|{dt.date.today()}|<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"16px\"/>|[{code}. {title}](https://www.acmicpc.net/problem/{code})|⬛|[python](P{code}.py)||\n")
-            with open(f"P{code}.py", "w", encoding="utf-8") as f2:
-                f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
-            print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
+
+            t_date = dt.date.today()
+            t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
+            t_tier_img = f"<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
+            t_problem = f"[{code}. {title}](https://www.acmicpc.net/problem/{code})"
+            t_code = "[python](P{code}.py)"
+            t_note = ""
+            f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
+            if os.path.exists(f"P{code}.py"):
+                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] / code file already exists!!")
+                continue
+            else:
+                with open(f"P{code}.py", "w", encoding="utf-8") as f2:
+                    f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
+                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
 
 
 def main():
