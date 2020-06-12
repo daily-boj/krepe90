@@ -21,7 +21,4 @@ def D(x):
 
 
 low, up = map(int, input().split(maxsplit=1))
-if up == low:
-    print(sumd(up))
-else:
-    print(D(up) - D(low - 1 if low > 0 else 0))
+print(D(up) - D(low - 1 if low > 0 else 0))
