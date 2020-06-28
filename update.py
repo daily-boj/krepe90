@@ -2,6 +2,7 @@ import datetime as dt
 import argparse
 import requests
 import os
+import re
 
 LEVEL_NAME = [
     "UNRATED",
@@ -69,7 +70,7 @@ def append_readme(*args):
             t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
             t_tier_img = f"<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
             t_problem = f"[{code}. {title}](https://www.acmicpc.net/problem/{code})"
-            t_code = "[python](P{code}.py)"
+            t_code = f"[python](P{code}.py)"
             t_note = ""
             f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
             if os.path.exists(f"P{code}.py"):
@@ -81,12 +82,41 @@ def append_readme(*args):
                 print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
 
 
+def edit_readme(*args):
+    with open("README.md", "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        idx = lines.index("<!-- TABLE START -->\n")
+
+        for line in lines[idx + 3:]:
+            data = line[1:-1].split("|")
+            print(data[2])
+
+
+def generate_markdown(*args):
+    # args: code(문제 번호) 있는 list
+    for code in args:
+        p = get_problem(code)
+        title = p.get("title")
+        level = p.get("level")
+        with open(f"docs/P{code}.md", "w", encoding="utf-8") as f:
+            f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)](/P{code}.py)")
+
+
+def edit_readme_markdown():
+    pass
+
+
 def main():
     pass
 
 
 if __name__ == "__main__":
     arg_parser = argparse.ArgumentParser()
+    arg_parser.add_argument("-m", "--markdown", help="Markdown file generate mode", action="store_true")
     arg_parser.add_argument("number", help="BOJ problem code numbers", type=int, nargs="+")
     args = arg_parser.parse_args()
-    append_readme(*args.number)
+    if args.markdown:
+        edit_readme_markdown()
+    else:
+        append_readme(*args.number)
+    # edit_readme()
