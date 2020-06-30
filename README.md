@@ -27,3 +27,5 @@
 |**2020-06-14**|<img src="https://static.solved.ac/tier_small/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)|⬛|[python](P1504.py)||
 |2020-06-29|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1459. 걷기](https://www.acmicpc.net/problem/1459)|✅|[python](P1459.py)||
 |2020-06-29|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[3186. 소변기](https://www.acmicpc.net/problem/3186)|✅|[python](P3186.py)||
+|2020-06-30|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[17294. 귀여운 수~ε٩(๑> ₃ <)۶з](https://www.acmicpc.net/problem/17294)|✅|[python](P17294.py)||
+|2020-06-30|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[15565. 귀여운 라이언](https://www.acmicpc.net/problem/15565)|✅|[python](P15565.py)||
