@@ -31,3 +31,5 @@
 |2020-06-30|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[15565. 귀여운 라이언](https://www.acmicpc.net/problem/15565)|✅|[python](P15565.py)||
 |2020-07-07|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2033. 반올림](https://www.acmicpc.net/problem/2033)|✅|[python](P2033.py)||
 |2020-07-07|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[3372. 보드 점프](https://www.acmicpc.net/problem/3372)|✅|[python](P3372.py)||
+|2020-07-08|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[12090. 초성 변환](https://www.acmicpc.net/problem/12090)|⬛|[python](P12090.py)||
+|2020-07-08|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[13699. 점화식](https://www.acmicpc.net/problem/13699)|⬛|[python](P13699.py)||
