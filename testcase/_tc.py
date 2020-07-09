@@ -9,5 +9,12 @@ def p15565():
         f.write(" ".join("1" for n in range(100000)))
 
 
+def p5015():
+    with open("testcase/P5015_1.txt", "w") as f:
+        f.write("a*" * 50 + "\n100\n")
+        [f.write("a" * 100 + "\n") for n in range(100)]
+
+
 if __name__ == "__main__":
-    p15565()
+    # p15565()
+    p5015()
