@@ -15,6 +15,12 @@ def p5015():
         [f.write("a" * 100 + "\n") for n in range(100)]
 
 
+def p13710():
+    with open("testcase/P13710_3.txt", "w") as f:
+        f.write("1000\n")
+        f.write(" ".join(str(n * 3) for n in range(1000)))
+
+
 if __name__ == "__main__":
     # p15565()
-    p5015()
+    p13710()

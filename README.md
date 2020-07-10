@@ -36,3 +36,6 @@
 |2020-07-09|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2546. 경제학과 정원영](https://www.acmicpc.net/problem/2546)|✅|[python](P2546.py)||
 |2020-07-09|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[2502. 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|✅|[python](P2502.py)||
 |2020-07-09|<img src="https://static.solved.ac/tier_small/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[5015. ls](https://www.acmicpc.net/problem/5015)|🟨|[python](P5015.py)||
+|2020-07-10|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[7481. ATM놀이](https://www.acmicpc.net/problem/7481)|✅|[python](P7481.py)||
+|2020-07-10|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[14400. 편의점 2](https://www.acmicpc.net/problem/14400)|✅|[python](P14400.py)||
+|2020-07-10|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|🟨|[python](P13710.py)||
