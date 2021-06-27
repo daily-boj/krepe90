@@ -40,3 +40,5 @@
 |2020-07-10|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[14400. 편의점 2](https://www.acmicpc.net/problem/14400)|✅|[python](P14400.py)||
 |2020-07-10|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|🟨|[python](P13710.py)||
 |**2020-07-11**|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|✅|[python](P13710.py)||
+|2021-06-28|<img src="https://static.solved.ac/tier_small/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[15881. Pen Pineapple Apple Pen](https://www.acmicpc.net/problem/15881)|✅|[python](P15881.py)||
+|2021-06-28|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2232. 지뢰](https://www.acmicpc.net/problem/2232)|✅|[python](P2232.py)||
