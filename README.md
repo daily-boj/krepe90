@@ -39,3 +39,4 @@
 |2020-07-10|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[7481. ATM놀이](https://www.acmicpc.net/problem/7481)|✅|[python](P7481.py)||
 |2020-07-10|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[14400. 편의점 2](https://www.acmicpc.net/problem/14400)|✅|[python](P14400.py)||
 |2020-07-10|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|🟨|[python](P13710.py)||
+|**2020-07-11**|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|✅|[python](P13710.py)||
