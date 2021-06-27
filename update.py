@@ -46,24 +46,21 @@ LEVEL_NAME = [
 
 
 def get_problem(p_id: int) -> str:
-    resp = requests.get(f"https://api.solved.ac/v2/search/problems.json?query={p_id}&page=1")
+    resp = requests.get(f"https://solved.ac/api/v3/search/suggestion?query={p_id}")
     resp.raise_for_status()
 
     data = resp.json()
-    if not data.get("success"):
+    if not data.get("problemCount", 0):
         return "???"
-    p = data.get("result", {}).get("problems", [])
-    if len(p) < 1:
-        return "???"
-    else:
-        return p[0]
+    p = data.get("problems", [])
+    return p[0]
 
 
 def append_readme(*args):
     with open("README.md", "a", encoding="utf-8") as f:
         for code in args:
             p = get_problem(code)
-            title = p.get("title")
+            title = p.get("caption")
             level = p.get("level")
 
             t_date = dt.date.today()
