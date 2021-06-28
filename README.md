@@ -42,3 +42,5 @@
 |**2020-07-11**|<img src="https://static.solved.ac/tier_small/15.svg" height="18px" alt="Gold I" title="Gold I"/>|[13710. XOR 합 3](https://www.acmicpc.net/problem/13710)|✅|[python](P13710.py)||
 |2021-06-28|<img src="https://static.solved.ac/tier_small/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[15881. Pen Pineapple Apple Pen](https://www.acmicpc.net/problem/15881)|✅|[python](P15881.py)||
 |2021-06-28|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2232. 지뢰](https://www.acmicpc.net/problem/2232)|✅|[python](P2232.py)||
+|2021-06-29|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1032. 명령 프롬프트](https://www.acmicpc.net/problem/1032)|✅|[python](P1032.py)||
+|2021-06-29|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[4172. sqrt log sin](https://www.acmicpc.net/problem/4172)|✅|[python](P4172.py)||
