@@ -44,3 +44,4 @@
 |2021-06-28|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2232. 지뢰](https://www.acmicpc.net/problem/2232)|✅|[python](src/python/P2232.py)||
 |2021-06-29|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1032. 명령 프롬프트](https://www.acmicpc.net/problem/1032)|✅|[python](src/python/P1032.py)||
 |2021-06-29|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[4172. sqrt log sin](https://www.acmicpc.net/problem/4172)|✅|[python](src/python/P4172.py)||
+|2024-11-05|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1149. RGB거리](https://www.acmicpc.net/problem/1149)|✅|[python](src/python/P1149.py)||
