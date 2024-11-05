@@ -43,15 +43,17 @@ LEVEL_NAME = [
     "Ruby II",
     "Ruby I",
 ]
+CODE_DIR_PYTHON = "src/python"
 
 
-def get_problem(p_id: int) -> str:
+def get_problem(p_id: int) -> dict | None:
     resp = requests.get(f"https://solved.ac/api/v3/search/suggestion?query={p_id}")
     resp.raise_for_status()
 
     data = resp.json()
     if not data.get("problemCount", 0):
-        return "???"
+        print(f"Problem {p_id} not found!!")
+        return None
     p = data.get("problems", [])
     return p[0]
 
@@ -60,8 +62,14 @@ def append_readme(*args):
     with open("README.md", "a", encoding="utf-8") as f:
         for code in args:
             p = get_problem(code)
-            title = p.get("caption")
-            level = p.get("level")
+            if not p:
+                continue
+            title: str | None = p.get("caption")
+            level: str | None = p.get("level")
+
+            if title is None or level is None:
+                print(f"Problem {code} data error!!")
+                continue
 
             t_date = dt.date.today()
             t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
@@ -74,7 +82,8 @@ def append_readme(*args):
                 print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] / code file already exists!!")
                 continue
             else:
-                with open(f"P{code}.py", "w", encoding="utf-8") as f2:
+                code_file_path = os.path.join(CODE_DIR_PYTHON, f"P{code}.py")
+                with open(code_file_path, "w", encoding="utf-8") as f2:
                     f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
                 print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
 
@@ -93,8 +102,13 @@ def generate_markdown(*args):
     # args: code(문제 번호) 있는 list
     for code in args:
         p = get_problem(code)
-        title = p.get("title")
-        level = p.get("level")
+        if not p:
+            continue
+        title: str | None = p.get("title")
+        level: str | None = p.get("level")
+        if title is None or level is None:
+            print(f"Problem {code} data error!!")
+            continue
         with open(f"docs/P{code}.md", "w", encoding="utf-8") as f:
             f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)](/P{code}.py)")
 
