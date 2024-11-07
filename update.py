@@ -110,7 +110,7 @@ def generate_markdown(*args):
             print(f"Problem {code} data error!!")
             continue
         with open(f"docs/P{code}.md", "w", encoding="utf-8") as f:
-            f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)](/P{code}.py)")
+            f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)](src/python/P{code}.py)")
 
 
 def edit_readme_markdown():
