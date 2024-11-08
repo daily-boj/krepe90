@@ -75,7 +75,7 @@ def append_readme(*args):
             t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
             t_tier_img = f"<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
             t_problem = f"[{code}. {title}](https://www.acmicpc.net/problem/{code})"
-            t_code = f"[python](P{code}.py)"
+            t_code = f"[python]({CODE_DIR_PYTHON}/P{code}.py)"
             t_note = ""
             f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
             if os.path.exists(f"P{code}.py"):
@@ -110,7 +110,7 @@ def generate_markdown(*args):
             print(f"Problem {code} data error!!")
             continue
         with open(f"docs/P{code}.md", "w", encoding="utf-8") as f:
-            f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)](src/python/P{code}.py)")
+            f.write(f"# {code}. {title} ({LEVEL_NAME[level]})\n[소스코드(Python)]({CODE_DIR_PYTHON}/P{code}.py)")
 
 
 def edit_readme_markdown():
