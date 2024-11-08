@@ -47,3 +47,5 @@
 |2024-11-05|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1149. RGB거리](https://www.acmicpc.net/problem/1149)|✅|[python](src/python/P1149.py)||
 |2024-11-07|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[2217. 로프](https://www.acmicpc.net/problem/2217)|✅|[python](src/python/P2217.py)||
 |2024-11-07|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[12852. 1로 만들기 2](https://www.acmicpc.net/problem/12852)|✅|[python](src/python/P12852.py)||
+|2024-11-08|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[1026. 보물](https://www.acmicpc.net/problem/1026)|✅|[python](P1026.py)||
+|2024-11-08|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)|✅|[python](P11727.py)||
