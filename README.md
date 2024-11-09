@@ -49,3 +49,5 @@
 |2024-11-07|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[12852. 1로 만들기 2](https://www.acmicpc.net/problem/12852)|✅|[python](src/python/P12852.py)||
 |2024-11-08|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[1026. 보물](https://www.acmicpc.net/problem/1026)|✅|[python](P1026.py)||
 |2024-11-08|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)|✅|[python](P11727.py)||
+|2024-11-09|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[2847. 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|✅|[python](src/python/P2847.py)||
+|2024-11-09|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|✅|[python](src/python/P1932.py)||
