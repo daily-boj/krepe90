@@ -51,3 +51,5 @@
 |2024-11-08|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)|✅|[python](P11727.py)||
 |2024-11-09|<img src="https://static.solved.ac/tier_small/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[2847. 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|✅|[python](src/python/P2847.py)||
 |2024-11-09|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|✅|[python](src/python/P1932.py)||
+|2024-11-10|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2193. 이친수](https://www.acmicpc.net/problem/2193)|✅|[python](src/python/P2193.py)||
+|2024-11-10|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|✅|[python](src/python/P11053.py)||
