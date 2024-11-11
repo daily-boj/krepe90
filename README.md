@@ -53,3 +53,5 @@
 |2024-11-09|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|✅|[python](src/python/P1932.py)||
 |2024-11-10|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2193. 이친수](https://www.acmicpc.net/problem/2193)|✅|[python](src/python/P2193.py)||
 |2024-11-10|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|✅|[python](src/python/P11053.py)||
+|2024-11-11|<img src="https://static.solved.ac/tier_small/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[9655. 돌 게임](https://www.acmicpc.net/problem/9655)|✅|[python](src/python/P9655.py)||
+|2024-11-11|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[15903. 카드 합체 놀이](https://www.acmicpc.net/problem/15903)|✅|[python](src/python/P15903.py)||
