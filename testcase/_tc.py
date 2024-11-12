@@ -21,6 +21,13 @@ def p13710():
         f.write(" ".join(str(n * 3) for n in range(1000)))
 
 
+def p15486():
+    with open("testcase/P15486_1.txt", "w") as f:
+        f.write("1500000\n")
+        for _ in range(1_500_000):
+            f.write("2 1\n")
+
+
 if __name__ == "__main__":
     # p15565()
-    p13710()
+    p15486()
