@@ -57,3 +57,5 @@
 |2024-11-11|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[15903. 카드 합체 놀이](https://www.acmicpc.net/problem/15903)|✅|[python](src/python/P15903.py)||
 |2024-11-12|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[14501. 퇴사](https://www.acmicpc.net/problem/14501)|✅|[python](src/python/P14501.py)||
 |2024-11-12|<img src="https://static.solved.ac/tier_small/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[15486. 퇴사 2](https://www.acmicpc.net/problem/15486)|✅|[python](src/python/P15486.py)||
+|2024-11-13|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[9657. 돌 게임 3](https://www.acmicpc.net/problem/9657)|✅|[python](src/python/P9657.py)||
+|2024-11-13|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|✅|[python](src/python/P10844.py)||
