@@ -62,3 +62,5 @@
 |2024-11-14|<img src="https://static.solved.ac/tier_small/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1788. 피보나치 수의 확장](https://www.acmicpc.net/problem/1788)|✅|[python](src/python/P1788.py)||
 |2024-11-14|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[2302. 극장 좌석](https://www.acmicpc.net/problem/2302)|✅|[python](src/python/P2302.py)||
 |2024-11-15|<img src="https://static.solved.ac/tier_small/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[1439. 뒤집기](https://www.acmicpc.net/problem/1439)|✅|[python](src/python/P1439.py)||
+|**2024-11-16**|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[11501. 주식](https://www.acmicpc.net/problem/11501)|✅|[python](src/python/P11501.py)||
+|**2024-11-16**|<img src="https://static.solved.ac/tier_small/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2240. 자두나무](https://www.acmicpc.net/problem/2240)|⬛|[python](src/python/P2240.py)||
