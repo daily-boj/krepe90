@@ -66,3 +66,5 @@
 |2024-11-16|<img src="https://static.solved.ac/tier_small/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2240. 자두나무](https://www.acmicpc.net/problem/2240)|⬛|[python](src/python/P2240.py)||
 |2024-11-17|<img src="https://static.solved.ac/tier_small/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1912. 연속합](https://www.acmicpc.net/problem/1912)|✅|[python](src/python/P1912.py)||
 |2024-11-17|<img src="https://static.solved.ac/tier_small/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2170. 선 긋기](https://www.acmicpc.net/problem/2170)|✅|[python](src/python/P2170.py)||
+|2024-11-18|<img src="https://static.solved.ac/tier_small/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2748. 피보나치 수 2](https://www.acmicpc.net/problem/2748)|✅|[python](src/python/P2748.py)||
+|2024-11-18|<img src="https://static.solved.ac/tier_small/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[2156. 포도주 시식](https://www.acmicpc.net/problem/2156)|✅|[python](src/python/P2156.py)||
