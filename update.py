@@ -72,8 +72,9 @@ def append_readme(*args):
                 continue
 
             t_date = dt.date.today()
-            t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
-            t_tier_img = f"<img src=\"https://static.solved.ac/tier_small/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
+            # t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
+            t_date_str = str(t_date)    # 주말 하이라이팅 제거(?)
+            t_tier_img = f"<img src=\"icon/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
             t_problem = f"[{code}. {title}](https://www.acmicpc.net/problem/{code})"
             t_code = f"[python]({CODE_DIR_PYTHON}/P{code}.py)"
             t_note = ""
@@ -115,6 +116,21 @@ def generate_markdown(*args):
 
 def edit_readme_markdown():
     pass
+
+
+def download_icons():
+    for i, name in enumerate(LEVEL_NAME):
+        with open(os.path.join("icon", f"{i}.svg"), "wb") as f:
+            resp = requests.get(f"https://static.solved.ac/tier_small/{i}.svg")
+            if resp.status_code != 200:
+                print(f"ERROR: {resp.status_code}")
+                continue
+            data = resp.content
+            if not isinstance(data, bytes):
+                print("ERROR: 알 수 없는 오류")
+                continue
+            f.write(data)
+            print(f"다운로드 완료: {resp.url}")
 
 
 def main():
