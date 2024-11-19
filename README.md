@@ -68,3 +68,5 @@
 |2024-11-17|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2170. 선 긋기](https://www.acmicpc.net/problem/2170)|✅|[python](src/python/P2170.py)||
 |2024-11-18|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2748. 피보나치 수 2](https://www.acmicpc.net/problem/2748)|✅|[python](src/python/P2748.py)||
 |2024-11-18|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[2156. 포도주 시식](https://www.acmicpc.net/problem/2156)|✅|[python](src/python/P2156.py)||
+|2024-11-19|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)|✅|[python](src/python/P1699.py)||
+|2024-11-19|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[11000. 강의실 배정](https://www.acmicpc.net/problem/11000)|✅|[python](src/python/P11000.py)||
