@@ -28,6 +28,13 @@ def p15486():
             f.write("2 1\n")
 
 
+def p1915():
+    with open("testcase/P25943_1.txt", "w") as f:
+        f.write("1000 1000\n")
+        for _ in range(1000):
+            f.write("1" * 1000 + "\n")
+
+
 if __name__ == "__main__":
     # p15565()
-    p15486()
+    p1915()

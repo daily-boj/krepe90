@@ -70,3 +70,5 @@
 |2024-11-18|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[2156. 포도주 시식](https://www.acmicpc.net/problem/2156)|✅|[python](src/python/P2156.py)||
 |2024-11-19|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)|✅|[python](src/python/P1699.py)||
 |2024-11-19|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[11000. 강의실 배정](https://www.acmicpc.net/problem/11000)|✅|[python](src/python/P11000.py)||
+|2024-11-20|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[25943. 양팔저울](https://www.acmicpc.net/problem/25943)|✅|[python](src/python/P25943.py)||
+|2024-11-20|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[1915. 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|⬛|[python](src/python/P1915.py)||
