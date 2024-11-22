@@ -73,3 +73,5 @@
 |2024-11-20|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[25943. 양팔저울](https://www.acmicpc.net/problem/25943)|✅|[python](src/python/P25943.py)||
 |2024-11-20|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[1915. 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|✅|[python](src/python/P1915.py)||
 |2024-11-21|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[9372. 상근이의 여행](https://www.acmicpc.net/problem/9372)|✅|[python](src/python/P9372.py)||
+|2024-11-22|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[11055. 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|✅|[python](src/python/P11055.py)||
+|2024-11-22|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[2293. 동전 1](https://www.acmicpc.net/problem/2293)|✅|[python](src/python/P2293.py)||
