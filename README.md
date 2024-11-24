@@ -75,3 +75,5 @@
 |2024-11-21|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[9372. 상근이의 여행](https://www.acmicpc.net/problem/9372)|✅|[python](src/python/P9372.py)||
 |2024-11-22|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[11055. 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|✅|[python](src/python/P11055.py)||
 |2024-11-22|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[2293. 동전 1](https://www.acmicpc.net/problem/2293)|✅|[python](src/python/P2293.py)||
+|2024-11-24|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|✅|[python](src/python/P1541.py)||
+|2024-11-24|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2294. 동전 2](https://www.acmicpc.net/problem/2294)|✅|[python](src/python/P2294.py)||
