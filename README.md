@@ -77,3 +77,5 @@
 |2024-11-22|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[2293. 동전 1](https://www.acmicpc.net/problem/2293)|✅|[python](src/python/P2293.py)||
 |2024-11-24|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|✅|[python](src/python/P1541.py)||
 |2024-11-24|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2294. 동전 2](https://www.acmicpc.net/problem/2294)|✅|[python](src/python/P2294.py)||
+|2024-11-25|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|✅|[python](src/python/P2309.py)||
+|2024-11-25|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1965. 상자넣기](https://www.acmicpc.net/problem/1965)|✅|[python](src/python/P1965.py)||
