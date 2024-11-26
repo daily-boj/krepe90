@@ -79,3 +79,6 @@
 |2024-11-24|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[2294. 동전 2](https://www.acmicpc.net/problem/2294)|✅|[python](src/python/P2294.py)||
 |2024-11-25|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|✅|[python](src/python/P2309.py)||
 |2024-11-25|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1965. 상자넣기](https://www.acmicpc.net/problem/1965)|✅|[python](src/python/P1965.py)||
+|2024-11-26|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10804. 카드 역배치](https://www.acmicpc.net/problem/10804)|✅|[python](src/python/P10804.py)||
+|2024-11-26|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)|✅|[python](src/python/P11052.py)||
+|2024-11-26|<img src="icon/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|⬛|[python](src/python/P11049.py)||
