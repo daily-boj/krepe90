@@ -82,3 +82,6 @@
 |2024-11-26|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10804. 카드 역배치](https://www.acmicpc.net/problem/10804)|✅|[python](src/python/P10804.py)||
 |2024-11-26|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)|✅|[python](src/python/P11052.py)||
 |2024-11-26|<img src="icon/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|⬛|[python](src/python/P11049.py)||
+|2025-01-06|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[24723. 녹색거탑](https://www.acmicpc.net/problem/24723)|✅|[python](src/python/P24723.py)||
+|2025-01-06|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|✅|[python](src/python/P15988.py)||
+|2025-01-06|<img src="icon/11.svg" height="18px" alt="Gold V" title="Gold V"/>|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|⬛|[python](src/python/P13549.py)||
