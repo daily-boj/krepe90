@@ -83,3 +83,5 @@
 |2024-11-26|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)|✅|[python](src/python/P11052.py)||
 |2025-01-06|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[24723. 녹색거탑](https://www.acmicpc.net/problem/24723)|✅|[python](src/python/P24723.py)||
 |2025-01-06|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|✅|[python](src/python/P15988.py)||
+|2025-01-07|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25643. 문자열 탑 쌓기](https://www.acmicpc.net/problem/25643)|✅|[python](src/python/P25643.py)||
+|2025-01-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[16953. A → B](https://www.acmicpc.net/problem/16953)|✅|[python](src/python/P16953.py)||
