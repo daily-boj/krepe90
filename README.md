@@ -85,3 +85,5 @@
 |2025-01-06|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|✅|[python](src/python/P15988.py)||
 |2025-01-07|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25643. 문자열 탑 쌓기](https://www.acmicpc.net/problem/25643)|✅|[python](src/python/P25643.py)||
 |2025-01-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[16953. A → B](https://www.acmicpc.net/problem/16953)|✅|[python](src/python/P16953.py)||
+|2025-01-08|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[3943. 헤일스톤 수열](https://www.acmicpc.net/problem/3943)|✅|[python](src/python/P3943.py)||
+|2025-01-08|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1927. 최소 힙](https://www.acmicpc.net/problem/1927)|✅|[python](src/python/P1927.py)||
