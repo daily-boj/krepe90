@@ -87,3 +87,5 @@
 |2025-01-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[16953. A → B](https://www.acmicpc.net/problem/16953)|✅|[python](src/python/P16953.py)||
 |2025-01-08|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[3943. 헤일스톤 수열](https://www.acmicpc.net/problem/3943)|✅|[python](src/python/P3943.py)||
 |2025-01-08|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1927. 최소 힙](https://www.acmicpc.net/problem/1927)|✅|[python](src/python/P1927.py)||
+|2025-01-09|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[7568. 덩치](https://www.acmicpc.net/problem/7568)|✅|[python](src/python/P7568.py)||
+|2025-01-09|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[3273. 두 수의 합](https://www.acmicpc.net/problem/3273)|✅|[python](src/python/P3273.py)||
