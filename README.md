@@ -89,3 +89,5 @@
 |2025-01-08|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1927. 최소 힙](https://www.acmicpc.net/problem/1927)|✅|[python](src/python/P1927.py)||
 |2025-01-09|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[7568. 덩치](https://www.acmicpc.net/problem/7568)|✅|[python](src/python/P7568.py)||
 |2025-01-09|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[3273. 두 수의 합](https://www.acmicpc.net/problem/3273)|✅|[python](src/python/P3273.py)||
+|2025-01-10|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[3034. 앵그리 창영](https://www.acmicpc.net/problem/3034)|✅|[python](src/python/P3034.py)||
+|2025-01-10|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|⬛|[python](src/python/P1780.py)||
