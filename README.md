@@ -93,3 +93,5 @@
 |2025-01-10|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|⬛|[python](src/python/P1780.py)||
 |2025-01-12|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1292. 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|✅|[python](src/python/P1292.py)||
 |2025-01-12|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15652. N과 M (4)](https://www.acmicpc.net/problem/15652)|✅|[python](src/python/P15652.py)||
+|2025-01-12|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[32749. 타노수](https://www.acmicpc.net/problem/32749)|✅|[python](src/python/P32749.py)||
+|2025-01-12|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[3986. 좋은 단어](https://www.acmicpc.net/problem/3986)|✅|[python](src/python/P3986.py)||
