@@ -95,3 +95,4 @@
 |2025-01-12|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15652. N과 M (4)](https://www.acmicpc.net/problem/15652)|✅|[python](src/python/P15652.py)||
 |2025-01-12|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[32749. 타노수](https://www.acmicpc.net/problem/32749)|✅|[python](src/python/P32749.py)||
 |2025-01-12|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[3986. 좋은 단어](https://www.acmicpc.net/problem/3986)|✅|[python](src/python/P3986.py)||
+|2025-01-13|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|✅|[python](src/python/P4949.py)||
