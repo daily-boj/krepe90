@@ -97,3 +97,5 @@
 |2025-01-12|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[3986. 좋은 단어](https://www.acmicpc.net/problem/3986)|✅|[python](src/python/P3986.py)||
 |2025-01-13|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|✅|[python](src/python/P4949.py)||
 |2025-01-14|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[6359. 만취한 상범](https://www.acmicpc.net/problem/6359)|✅|[python](src/python/P6359.py)||
+|2025-01-26|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[25286. 11월 11일](https://www.acmicpc.net/problem/25286)|✅|[python](src/python/P25286.py)||
+|2025-01-26|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[19583. 싸이버개강총회](https://www.acmicpc.net/problem/19583)|✅|[python](src/python/P19583.py)||
