@@ -71,22 +71,22 @@ def append_readme(*args):
                 print(f"Problem {code} data error!!")
                 continue
 
+            code_file_path = os.path.join(CODE_DIR_PYTHON, f"P{code}.py")
             t_date = dt.date.today()
             # t_date_str = str(t_date) if t_date.weekday() < 5 else f"**{t_date}**"
             t_date_str = str(t_date)    # 주말 하이라이팅 제거(?)
             t_tier_img = f"<img src=\"icon/{level}.svg\" height=\"18px\" alt=\"{LEVEL_NAME[level]}\" title=\"{LEVEL_NAME[level]}\"/>"
             t_problem = f"[{code}. {title}](https://www.acmicpc.net/problem/{code})"
-            t_code = f"[python]({CODE_DIR_PYTHON}/P{code}.py)"
+            t_code = f"[python]({code_file_path})"
             t_note = ""
-            f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
-            if os.path.exists(f"P{code}.py"):
-                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] / code file already exists!!")
+            if os.path.exists(code_file_path):
+                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] / skip!! (file already exists)")
                 continue
             else:
-                code_file_path = os.path.join(CODE_DIR_PYTHON, f"P{code}.py")
+                f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
                 with open(code_file_path, "w", encoding="utf-8") as f2:
                     f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
-                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!!")
+                print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!! ({code_file_path})")
 
 
 def edit_readme(*args):
