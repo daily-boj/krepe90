@@ -102,3 +102,4 @@
 |2025-01-27|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[17826. 나의 학점은?](https://www.acmicpc.net/problem/17826)|✅|[python](src/python/P17826.py)||
 |2025-01-29|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[31628. 가지 한 두름 주세요](https://www.acmicpc.net/problem/31628)|✅|[python](src/python/P31628.py)||
 |2025-01-29|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[29722. 브실혜성](https://www.acmicpc.net/problem/29722)|✅|[python](src/python/P29722.py)||
+|2025-01-30|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[23756. 노브 돌리기](https://www.acmicpc.net/problem/23756)|⬛|[python](src/python/P23756.py)||
