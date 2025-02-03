@@ -105,3 +105,4 @@
 |2025-01-30|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[23756. 노브 돌리기](https://www.acmicpc.net/problem/23756)|✅|[python](src/python/P23756.py)||
 |2025-01-31|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25400. 제자리](https://www.acmicpc.net/problem/25400)|✅|[python](src/python/P25400.py)||
 |2025-02-01|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[2587. 대표값2](https://www.acmicpc.net/problem/2587)|✅|[python](src/python/P2587.py)||
+|2025-02-03|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1894. 4번째 점](https://www.acmicpc.net/problem/1894)|✅|[python](src/python/P1894.py)||
