@@ -106,3 +106,4 @@
 |2025-01-31|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25400. 제자리](https://www.acmicpc.net/problem/25400)|✅|[python](src/python/P25400.py)||
 |2025-02-01|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[2587. 대표값2](https://www.acmicpc.net/problem/2587)|✅|[python](src/python/P2587.py)||
 |2025-02-03|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1894. 4번째 점](https://www.acmicpc.net/problem/1894)|✅|[python](src/python/P1894.py)||
+|2025-03-09|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[21736. 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|✅|[python](src/python/P21736.py)||
