@@ -109,3 +109,5 @@
 |2025-03-09|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[21736. 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|✅|[python](src/python/P21736.py)||
 |2025-03-10|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[32779. 가희와 전기 요금 1](https://www.acmicpc.net/problem/32779)|✅|[python](src/python/P32779.py)||
 |2025-03-10|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[30804. 과일 탕후루](https://www.acmicpc.net/problem/30804)|✅|[python](src/python/P30804.py)||
+|2025-03-11|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[16435. 스네이크버드](https://www.acmicpc.net/problem/16435)|✅|[python](src/python/P16435.py)||
+|2025-03-11|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[31462. 삼각 초콜릿 포장 (Sweet)](https://www.acmicpc.net/problem/31462)|✅|[python](src/python/P31462.py)||
