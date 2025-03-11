@@ -1,3 +1,5 @@
+#!/usr/bin/env -S uv run --with requests
+
 import datetime as dt
 import argparse
 import requests
