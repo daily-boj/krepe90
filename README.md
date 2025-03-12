@@ -111,3 +111,4 @@
 |2025-03-10|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[30804. 과일 탕후루](https://www.acmicpc.net/problem/30804)|✅|[python](src/python/P30804.py)||
 |2025-03-11|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[16435. 스네이크버드](https://www.acmicpc.net/problem/16435)|✅|[python](src/python/P16435.py)||
 |2025-03-11|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[31462. 삼각 초콜릿 포장 (Sweet)](https://www.acmicpc.net/problem/31462)|✅|[python](src/python/P31462.py)||
+|2025-03-12|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25183. 인생은 한 방](https://www.acmicpc.net/problem/25183)|✅|[python](src/python/P25183.py)||
