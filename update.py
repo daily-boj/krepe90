@@ -1,4 +1,10 @@
 #!/usr/bin/env -S uv run --with requests
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "requests",
+# ]
+# ///
 
 import datetime as dt
 import argparse
