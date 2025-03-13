@@ -113,3 +113,4 @@
 |2025-03-11|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[31462. 삼각 초콜릿 포장 (Sweet)](https://www.acmicpc.net/problem/31462)|✅|[python](src/python/P31462.py)||
 |2025-03-12|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[25183. 인생은 한 방](https://www.acmicpc.net/problem/25183)|✅|[python](src/python/P25183.py)||
 |2025-03-13|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2999. 비밀 이메일](https://www.acmicpc.net/problem/2999)|✅|[python](src/python/P2999.py)||
+|2025-03-14|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[33541. 2025는 무엇이 특별할까?](https://www.acmicpc.net/problem/33541)|✅|[python](src/python/P33541.py)||
