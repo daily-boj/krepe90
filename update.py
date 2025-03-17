@@ -6,11 +6,13 @@
 # ]
 # ///
 
-import datetime as dt
-import argparse
-import requests
 import os
 import re
+import argparse
+import datetime as dt
+
+import requests     # pyright: ignore[reportMissingModuleSource]
+
 
 LEVEL_NAME = [
     "UNRATED",
