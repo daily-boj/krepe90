@@ -117,3 +117,4 @@
 |2025-03-16|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[21771. 가희야 거기서 자는 거 아니야](https://www.acmicpc.net/problem/21771)|✅|[python](src/python/P21771.py)||
 |2025-03-17|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[16561. 3의 배수](https://www.acmicpc.net/problem/16561)|✅|[python](src/python/P16561.py)||
 |2025-03-18|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[5220. Error Detection](https://www.acmicpc.net/problem/5220)|✅|[python](src/python/P5220.py)||
+|2025-03-19|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[6500. 랜덤 숫자 만들기](https://www.acmicpc.net/problem/6500)|✅|[python](src/python/P6500.py)||
