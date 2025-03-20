@@ -57,15 +57,13 @@ CODE_DIR_PYTHON = "src/python"
 
 
 def get_problem(p_id: int) -> dict | None:
-    resp = requests.get(f"https://solved.ac/api/v3/search/suggestion?query={p_id}")
-    resp.raise_for_status()
+    # https://solvedac.github.io/unofficial-documentation/#/operations/getProblemById
+    resp = requests.get(f"https://solved.ac/api/v3/problem/show?problemId={p_id}")
+    if resp.status_code != 200:
+        return
 
     data = resp.json()
-    if not data.get("problemCount", 0):
-        print(f"Problem {p_id} not found!!")
-        return None
-    p = data.get("problems", [])
-    return p[0]
+    return data
 
 
 def append_readme(*args):
@@ -74,7 +72,7 @@ def append_readme(*args):
             p = get_problem(code)
             if not p:
                 continue
-            title: str | None = p.get("caption")
+            title: str | None = p.get("titleKo")
             level: str | None = p.get("level")
 
             if title is None or level is None:
@@ -115,7 +113,7 @@ def generate_markdown(*args):
         p = get_problem(code)
         if not p:
             continue
-        title: str | None = p.get("title")
+        title: str | None = p.get("titleKo")
         level: str | None = p.get("level")
         if title is None or level is None:
             print(f"Problem {code} data error!!")
