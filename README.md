@@ -119,3 +119,4 @@
 |2025-03-18|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[5220. Error Detection](https://www.acmicpc.net/problem/5220)|✅|[python](src/python/P5220.py)||
 |2025-03-19|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[6500. 랜덤 숫자 만들기](https://www.acmicpc.net/problem/6500)|✅|[python](src/python/P6500.py)||
 |2025-03-20|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[2446. 별 찍기 - 9](https://www.acmicpc.net/problem/2446)|✅|[python](src/python/P2446.py)||
+|2025-03-21|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1225. 이상한 곱셈](https://www.acmicpc.net/problem/1225)|✅|[python](src/python/P1225.py)||
