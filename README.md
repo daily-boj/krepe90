@@ -120,3 +120,4 @@
 |2025-03-19|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[6500. 랜덤 숫자 만들기](https://www.acmicpc.net/problem/6500)|✅|[python](src/python/P6500.py)||
 |2025-03-20|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[2446. 별 찍기 - 9](https://www.acmicpc.net/problem/2446)|✅|[python](src/python/P2446.py)||
 |2025-03-21|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1225. 이상한 곱셈](https://www.acmicpc.net/problem/1225)|✅|[python](src/python/P1225.py)||
+|2025-03-23|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[26416. New Password](https://www.acmicpc.net/problem/26416)|✅|[python](src/python/P26416.py)||
