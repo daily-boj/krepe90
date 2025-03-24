@@ -122,3 +122,4 @@
 |2025-03-21|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1225. 이상한 곱셈](https://www.acmicpc.net/problem/1225)|✅|[python](src/python/P1225.py)||
 |2025-03-23|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[26416. New Password](https://www.acmicpc.net/problem/26416)|✅|[python](src/python/P26416.py)||
 |2025-03-23|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[20360. Binary numbers](https://www.acmicpc.net/problem/20360)|✅|[python](src/python/P20360.py)||
+|2025-03-24|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[31458. !!초콜릿 중독 주의!!](https://www.acmicpc.net/problem/31458)|✅|[python](src/python/P31458.py)||
