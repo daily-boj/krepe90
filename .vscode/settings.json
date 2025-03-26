@@ -1,3 +1,5 @@
 {
-    "github.copilot.editor.enableAutoCompletions": false
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": true
 }
