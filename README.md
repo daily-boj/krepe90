@@ -126,3 +126,4 @@
 |2025-03-25|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[2576. 홀수](https://www.acmicpc.net/problem/2576)|✅|[python](src/python/P2576.py)||
 |2025-03-26|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10093. 숫자](https://www.acmicpc.net/problem/10093)|✅|[python](src/python/P10093.py)||
 |2025-03-27|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[25305. 커트라인](https://www.acmicpc.net/problem/25305)|✅|[python](src/python/P25305.py)||
+|2025-03-28|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[10867. 중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|✅|[python](src/python/P10867.py)||
