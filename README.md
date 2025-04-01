@@ -130,3 +130,4 @@
 |2025-03-29|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[2628. 종이자르기](https://www.acmicpc.net/problem/2628)|✅|[python](src/python/P2628.py)||
 |2025-03-30|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[9455. 박스](https://www.acmicpc.net/problem/9455)|✅|[python](src/python/P9455.py)||
 |2025-03-31|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10811. 바구니 뒤집기](https://www.acmicpc.net/problem/10811)|✅|[python](src/python/P10811.py)||
+|2025-04-01|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[17247. 택시 거리](https://www.acmicpc.net/problem/17247)|✅|[python](src/python/P17247.py)||
