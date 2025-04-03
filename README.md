@@ -133,3 +133,5 @@
 |2025-04-01|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[17247. 택시 거리](https://www.acmicpc.net/problem/17247)|✅|[python](src/python/P17247.py)||
 |2025-04-02|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[11121. Communication Channels](https://www.acmicpc.net/problem/11121)|✅|[python](src/python/P11121.py)||
 |2025-04-02|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[11116. 교통량](https://www.acmicpc.net/problem/11116)|✅|[python](src/python/P11116.py)||
+|2025-04-03|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[10808. 알파벳 개수](https://www.acmicpc.net/problem/10808)|✅|[python](src/python/P10808.py)||
+|2025-04-03|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[10815. 숫자 카드](https://www.acmicpc.net/problem/10815)|✅|[python](src/python/P10815.py)||
