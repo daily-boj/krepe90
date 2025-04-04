@@ -135,3 +135,5 @@
 |2025-04-02|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[11116. 교통량](https://www.acmicpc.net/problem/11116)|✅|[python](src/python/P11116.py)||
 |2025-04-03|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[10808. 알파벳 개수](https://www.acmicpc.net/problem/10808)|✅|[python](src/python/P10808.py)||
 |2025-04-03|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[10815. 숫자 카드](https://www.acmicpc.net/problem/10815)|✅|[python](src/python/P10815.py)||
+|2025-04-04|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[31923. 마라탕후루](https://www.acmicpc.net/problem/31923)|✅|[python](src/python/P31923.py)||
+|2025-04-04|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[3042. 트리플렛](https://www.acmicpc.net/problem/3042)|✅|[python](src/python/P3042.py)||
