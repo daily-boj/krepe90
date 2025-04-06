@@ -139,3 +139,4 @@
 |2025-04-04|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[3042. 트리플렛](https://www.acmicpc.net/problem/3042)|✅|[python](src/python/P3042.py)||
 |2025-04-05|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[32762. 더치 페이](https://www.acmicpc.net/problem/32762)|✅|[python](src/python/P32762.py)||
 |2025-04-05|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15815. 천재 수학자 성필](https://www.acmicpc.net/problem/15815)|✅|[python](src/python/P15815.py)||
+|2025-04-06|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[9358. 순열 접기 게임](https://www.acmicpc.net/problem/9358)|✅|[python](src/python/P9358.py)||
