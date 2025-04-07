@@ -140,3 +140,5 @@
 |2025-04-05|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[32762. 더치 페이](https://www.acmicpc.net/problem/32762)|✅|[python](src/python/P32762.py)||
 |2025-04-05|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15815. 천재 수학자 성필](https://www.acmicpc.net/problem/15815)|✅|[python](src/python/P15815.py)||
 |2025-04-06|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[9358. 순열 접기 게임](https://www.acmicpc.net/problem/9358)|✅|[python](src/python/P9358.py)||
+|2025-04-07|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[16410. Goat Rope](https://www.acmicpc.net/problem/16410)|✅|[python](src/python/P16410.py)||
+|2025-04-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[10164. 격자상의 경로](https://www.acmicpc.net/problem/10164)|✅|[python](src/python/P10164.py)||
