@@ -142,3 +142,5 @@
 |2025-04-06|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[9358. 순열 접기 게임](https://www.acmicpc.net/problem/9358)|✅|[python](src/python/P9358.py)||
 |2025-04-07|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[16410. Goat Rope](https://www.acmicpc.net/problem/16410)|✅|[python](src/python/P16410.py)||
 |2025-04-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[10164. 격자상의 경로](https://www.acmicpc.net/problem/10164)|✅|[python](src/python/P10164.py)||
+|2025-04-09|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[19947. 투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|✅|[python](src/python/P19947.py)||
+|2025-04-09|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31826. 주식 시장](https://www.acmicpc.net/problem/31826)|✅|[python](src/python/P31826.py)||
