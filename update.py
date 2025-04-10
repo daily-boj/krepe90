@@ -54,6 +54,17 @@ LEVEL_NAME = [
     "Ruby I",
 ]
 CODE_DIR_PYTHON = "src/python"
+CODE_TEMPLATE_PYTHON = """# https://www.acmicpc.net/problem/{code}
+# {date} / {code}. {title} / {level_name}
+
+import sys
+input = lambda: sys.stdin.readline().rstrip()
+# print = sys.stdout.write
+
+# T = int(input())
+# N, M = map(int, input().split())
+
+"""
 
 
 def get_problem(p_id: int) -> dict | None:
@@ -93,7 +104,12 @@ def append_readme(*args):
             else:
                 f.write(f"|{t_date_str}|{t_tier_img}|{t_problem}|⬛|{t_code}|{t_note}|\n")
                 with open(code_file_path, "w", encoding="utf-8") as f2:
-                    f2.write(f"# https://www.acmicpc.net/problem/{code}\n# {dt.date.today()} / {code}. {title} / {LEVEL_NAME[level]}\n")
+                    f2.write(CODE_TEMPLATE_PYTHON.format(
+                        code=code,
+                        title=title,
+                        date=dt.date.today(),
+                        level_name=LEVEL_NAME[level]
+                    ))
                 print(f"{LEVEL_NAME[level]:12s} - [{code}. {title}] added!! ({code_file_path})")
 
 
