@@ -144,3 +144,4 @@
 |2025-04-07|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[10164. 격자상의 경로](https://www.acmicpc.net/problem/10164)|✅|[python](src/python/P10164.py)||
 |2025-04-09|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[19947. 투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|✅|[python](src/python/P19947.py)||
 |2025-04-09|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31826. 주식 시장](https://www.acmicpc.net/problem/31826)|✅|[python](src/python/P31826.py)||
+|2025-04-10|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[13416. 주식 투자](https://www.acmicpc.net/problem/13416)|✅|[python](src/python/P13416.py)||
