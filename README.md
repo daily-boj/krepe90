@@ -145,3 +145,5 @@
 |2025-04-09|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[19947. 투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|✅|[python](src/python/P19947.py)||
 |2025-04-09|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31826. 주식 시장](https://www.acmicpc.net/problem/31826)|✅|[python](src/python/P31826.py)||
 |2025-04-10|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[13416. 주식 투자](https://www.acmicpc.net/problem/13416)|✅|[python](src/python/P13416.py)||
+|2025-04-11|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1919. 애너그램 만들기](https://www.acmicpc.net/problem/1919)|✅|[python](src/python/P1919.py)||
+|2025-04-11|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[5567. 결혼식](https://www.acmicpc.net/problem/5567)|✅|[python](src/python/P5567.py)||
