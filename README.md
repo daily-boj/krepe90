@@ -149,3 +149,5 @@
 |2025-04-11|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[5567. 결혼식](https://www.acmicpc.net/problem/5567)|✅|[python](src/python/P5567.py)||
 |2025-04-12|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[17362. 수학은 체육과목 입니다 2](https://www.acmicpc.net/problem/17362)|✅|[python](src/python/P17362.py)||
 |2025-04-12|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[20546. 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)|✅|[python](src/python/P20546.py)||
+|2025-04-13|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[32866. 코인의 신 건모](https://www.acmicpc.net/problem/32866)|✅|[python](src/python/P32866.py)||
+|2025-04-13|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31575. 도시와 비트코인](https://www.acmicpc.net/problem/31575)|✅|[python](src/python/P31575.py)||
