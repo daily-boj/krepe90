@@ -151,3 +151,5 @@
 |2025-04-12|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[20546. 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)|✅|[python](src/python/P20546.py)||
 |2025-04-13|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[32866. 코인의 신 건모](https://www.acmicpc.net/problem/32866)|✅|[python](src/python/P32866.py)||
 |2025-04-13|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31575. 도시와 비트코인](https://www.acmicpc.net/problem/31575)|✅|[python](src/python/P31575.py)||
+|2025-04-14|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[29716. 풀만한문제](https://www.acmicpc.net/problem/29716)|✅|[python](src/python/P29716.py)||
+|2025-04-14|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2371. 파일 구별하기](https://www.acmicpc.net/problem/2371)|✅|[python](src/python/P2371.py)||
