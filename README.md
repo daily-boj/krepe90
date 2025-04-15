@@ -153,3 +153,5 @@
 |2025-04-13|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[31575. 도시와 비트코인](https://www.acmicpc.net/problem/31575)|✅|[python](src/python/P31575.py)||
 |2025-04-14|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[29716. 풀만한문제](https://www.acmicpc.net/problem/29716)|✅|[python](src/python/P29716.py)||
 |2025-04-14|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2371. 파일 구별하기](https://www.acmicpc.net/problem/2371)|✅|[python](src/python/P2371.py)||
+|2025-04-15|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[8595. 히든 넘버](https://www.acmicpc.net/problem/8595)|✅|[python](src/python/P8595.py)||
+|2025-04-15|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[25945. 컨테이너 재배치](https://www.acmicpc.net/problem/25945)|✅|[python](src/python/P25945.py)||
