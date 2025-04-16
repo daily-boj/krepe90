@@ -155,3 +155,5 @@
 |2025-04-14|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2371. 파일 구별하기](https://www.acmicpc.net/problem/2371)|✅|[python](src/python/P2371.py)||
 |2025-04-15|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[8595. 히든 넘버](https://www.acmicpc.net/problem/8595)|✅|[python](src/python/P8595.py)||
 |2025-04-15|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[25945. 컨테이너 재배치](https://www.acmicpc.net/problem/25945)|✅|[python](src/python/P25945.py)||
+|2025-04-16|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[1475. 방 번호](https://www.acmicpc.net/problem/1475)|✅|[python](src/python/P1475.py)||
+|2025-04-16|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[3036. 링](https://www.acmicpc.net/problem/3036)|✅|[python](src/python/P3036.py)||
