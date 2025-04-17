@@ -157,3 +157,5 @@
 |2025-04-15|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[25945. 컨테이너 재배치](https://www.acmicpc.net/problem/25945)|✅|[python](src/python/P25945.py)||
 |2025-04-16|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[1475. 방 번호](https://www.acmicpc.net/problem/1475)|✅|[python](src/python/P1475.py)||
 |2025-04-16|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[3036. 링](https://www.acmicpc.net/problem/3036)|✅|[python](src/python/P3036.py)||
+|2025-04-17|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[11328. Strfry](https://www.acmicpc.net/problem/11328)|✅|[python](src/python/P11328.py)||
+|2025-04-17|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[7795. 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|✅|[python](src/python/P7795.py)||
