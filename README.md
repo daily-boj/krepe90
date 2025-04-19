@@ -161,3 +161,5 @@
 |2025-04-17|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[7795. 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|✅|[python](src/python/P7795.py)||
 |2025-04-18|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[15923. 욱제는 건축왕이야!!](https://www.acmicpc.net/problem/15923)|✅|[python](src/python/P15923.py)||
 |2025-04-18|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1166. 선물](https://www.acmicpc.net/problem/1166)|✅|[python](src/python/P1166.py)||
+|2025-04-19|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1159. 농구 경기](https://www.acmicpc.net/problem/1159)|✅|[python](src/python/P1159.py)||
+|2025-04-19|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15886. 내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)|✅|[python](src/python/P15886.py)||
