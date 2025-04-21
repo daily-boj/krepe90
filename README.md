@@ -165,3 +165,5 @@
 |2025-04-19|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[15886. 내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)|✅|[python](src/python/P15886.py)||
 |2025-04-20|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[8949. 대충 더해](https://www.acmicpc.net/problem/8949)|✅|[python](src/python/P8949.py)||
 |2025-04-20|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[19949. 영재의 시험](https://www.acmicpc.net/problem/19949)|✅|[python](src/python/P19949.py)||
+|2025-04-21|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1145. 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)|✅|[python](src/python/P1145.py)||
+|2025-04-21|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1992. 쿼드트리](https://www.acmicpc.net/problem/1992)|✅|[python](src/python/P1992.py)||
