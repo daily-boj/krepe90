@@ -168,3 +168,5 @@
 |2025-04-21|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[1145. 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)|✅|[python](src/python/P1145.py)||
 |2025-04-21|<img src="icon/10.svg" height="18px" alt="Silver I" title="Silver I"/>|[1992. 쿼드트리](https://www.acmicpc.net/problem/1992)|✅|[python](src/python/P1992.py)||
 |2025-04-22|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[2501. 약수 구하기](https://www.acmicpc.net/problem/2501)|✅|[python](src/python/P2501.py)||
+|2025-04-23|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2729. 이진수 덧셈](https://www.acmicpc.net/problem/2729)|✅|[python](src/python/P2729.py)||
+|2025-04-23|<img src="icon/7.svg" height="18px" alt="Silver IV" title="Silver IV"/>|[2164. 카드2](https://www.acmicpc.net/problem/2164)|⬛|[python](src/python/P2164.py)||
