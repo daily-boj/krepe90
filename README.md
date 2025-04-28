@@ -174,3 +174,4 @@
 |2025-04-25|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[21734. SMUPC의 등장](https://www.acmicpc.net/problem/21734)|✅|[python](src/python/P21734.py)||
 |2025-04-26|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[12833. XORXORXOR](https://www.acmicpc.net/problem/12833)|✅|[python](src/python/P12833.py)||
 |2025-04-27|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1392. 노래 악보](https://www.acmicpc.net/problem/1392)|✅|[python](src/python/P1392.py)||
+|2025-04-28|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[33690. 포린드롬](https://www.acmicpc.net/problem/33690)|✅|[python](src/python/P33690.py)||
