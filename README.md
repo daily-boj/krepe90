@@ -176,3 +176,5 @@
 |2025-04-27|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1392. 노래 악보](https://www.acmicpc.net/problem/1392)|✅|[python](src/python/P1392.py)||
 |2025-04-28|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[33690. 포린드롬](https://www.acmicpc.net/problem/33690)|✅|[python](src/python/P33690.py)||
 |2025-04-29|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[16961. 탭 vs 공백](https://www.acmicpc.net/problem/16961)|✅|[python](src/python/P16961.py)|과거 풀었던 문제|
+|2025-04-30|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[13300. 방 배정](https://www.acmicpc.net/problem/13300)|✅|[python](src/python/P13300.py)||
+|2025-04-30|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1406. 에디터](https://www.acmicpc.net/problem/1406)|✅|[python](src/python/P1406.py)||
