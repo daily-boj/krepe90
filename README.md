@@ -178,3 +178,5 @@
 |2025-04-29|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[16961. 탭 vs 공백](https://www.acmicpc.net/problem/16961)|✅|[python](src/python/P16961.py)|과거 풀었던 문제|
 |2025-04-30|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[13300. 방 배정](https://www.acmicpc.net/problem/13300)|✅|[python](src/python/P13300.py)||
 |2025-04-30|<img src="icon/9.svg" height="18px" alt="Silver II" title="Silver II"/>|[1406. 에디터](https://www.acmicpc.net/problem/1406)|✅|[python](src/python/P1406.py)||
+|2025-05-01|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[28062. 준석이의 사탕 사기](https://www.acmicpc.net/problem/28062)|✅|[python](src/python/P28062.py)||
+|2025-05-01|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[2075. N번째 큰 수](https://www.acmicpc.net/problem/2075)|✅|[python](src/python/P2075.py)||
