@@ -184,3 +184,6 @@
 |2025-05-02|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[16463. 13일의 금요일](https://www.acmicpc.net/problem/16463)|✅|[python](src/python/P16463.py)||
 |2025-05-03|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[15312. 이름 궁합](https://www.acmicpc.net/problem/15312)|✅|[python](src/python/P15312.py)||
 |2025-05-03|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|✅|[python](src/python/P1463.py)||
+|2025-05-03|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|✅|[python](src/python/P1463.py)||
+|2025-05-03|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|✅|[python](src/python/P1463.py)||
+|2025-05-04|<img src="icon/14.svg" height="18px" alt="Gold II" title="Gold II"/>|[1918. 후위 표기식](https://www.acmicpc.net/problem/1918)|✅|[python](src/python/P1918.py)||
