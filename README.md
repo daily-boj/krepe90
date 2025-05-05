@@ -187,3 +187,4 @@
 |2025-05-03|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|✅|[python](src/python/P1463.py)||
 |2025-05-03|<img src="icon/8.svg" height="18px" alt="Silver III" title="Silver III"/>|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|✅|[python](src/python/P1463.py)||
 |2025-05-04|<img src="icon/14.svg" height="18px" alt="Gold II" title="Gold II"/>|[1918. 후위 표기식](https://www.acmicpc.net/problem/1918)|✅|[python](src/python/P1918.py)||
+|2025-05-05|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[24937. SciComLove (2022)](https://www.acmicpc.net/problem/24937)|✅|[python](src/python/P24937.py)||
