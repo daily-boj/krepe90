@@ -190,3 +190,5 @@
 |2025-05-05|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[24937. SciComLove (2022)](https://www.acmicpc.net/problem/24937)|✅|[python](src/python/P24937.py)||
 |2025-05-06|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[2435. 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)|✅|[python](src/python/P2435.py)||
 |2025-05-06|<img src="icon/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🟥|[python](src/python/P2206.py)||
+|2025-05-07|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[33810. SciComLove (2025)](https://www.acmicpc.net/problem/33810)|✅|[python](src/python/P33810.py)||
+|2025-05-07|<img src="icon/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|✅|[python](src/python/P2206.py)||

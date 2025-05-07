@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/2206
-# 2025-05-06 / 2206. 벽 부수고 이동하기 / Gold III
+# 2025-05-07 / 2206. 벽 부수고 이동하기 / Gold III
 
 # 1. 최단거리를 구한다
 # 2. 부수면 최단거리가 줄어드는 벽을 찾는다
@@ -15,8 +15,9 @@ import sys
 N, M = map(int, input().split())
 MAP = sys.stdin.read(N * (M + 1)).splitlines()
 A = [[0] * M for _ in range(N)]
+B = [[0] * M for _ in range(N)]
 
-def check(y, x):
+def check(arr, y, x):
     # 1. 음수 인덱스 or 인덱스 밖을 찾으면 안됨
     # 2. 벽이 아니여야 함
     # 3. 방문한 적이 없어야 함
@@ -24,37 +25,12 @@ def check(y, x):
         return False
     if MAP[y][x] == "1":
         return False
-    if A[y][x]:
+    if arr[y][x]:
         return False
     return True
 
-# 1. 일단 시작점에서부터 좌표별 최단거리를 구한다. (BFS)
-A[0][0] = 1
-current_cells = [(0, 0)]
-while current_cells:
-    next_cells = list()
-    for y, x in current_cells:
-        checklist = [
-            (y-1, x),
-            (y, x-1),
-            (y+1, x),
-            (y, x+1),
-        ]
-        for y2, x2 in checklist:
-            if check(y2, x2):
-                A[y2][x2] = A[y][x] + 1
-                next_cells.append((y2, x2))
-    current_cells.clear()
-    current_cells.extend(next_cells)
-# for nl in A:
-#     print(*nl, sep="\t")
-# print("**********************")
-
-# 2. 혹시 도착점에 도달하지 못했다면 :: MAP[-1][-1] == -1
-#    도착지점에서부터 역으로 동일한 과정 수행
-if A[-1][-1] == 0:
-    A[-1][-1] = -1
-    current_cells = [(N - 1, M - 1)]
+def calc(arr, start):
+    current_cells = [start]
     while current_cells:
         next_cells = list()
         for y, x in current_cells:
@@ -65,47 +41,45 @@ if A[-1][-1] == 0:
                 (y, x+1),
             ]
             for y2, x2 in checklist:
-                if check(y2, x2):
-                    A[y2][x2] = A[y][x] - 1
+                if check(arr, y2, x2):
+                    arr[y2][x2] = arr[y][x] + 1
                     next_cells.append((y2, x2))
         current_cells.clear()
         current_cells.extend(next_cells)
-    # for nl in A:
-    #     print(*nl, sep="\t")
-    # print("**********************")
+
+# 1. 일단 시작점에서부터 좌표별 최단거리를 구한다. (BFS)
+A[0][0] = 1
+calc(A, (0, 0))
+# for nl in A:
+#     print(*nl, sep="\t")
+# print("**********************")
+
+# 2. 역방향으로도 동일한 작업 수행
+B[N-1][M-1] = 1
+calc(B, (N-1, M-1))
+# for nl in B:
+#     print(*nl, sep="\t")
+# print("**********************")
 
 # 3. 벽 부숴보기
-# 벽을 기준으로 상하좌우의 A값을 확인
-# 양수만 있는 경우 (최소+2)-(최대)
-# 양수+음수인 경우 (양수 최소+2)-(음수 최대)
-# 음수+음수인 경우는 의미 없으니 건너뛰기
-results = [0]
-mode_pn = (A[-1][-1] == -1)
+# 벽을 기준으로 상하좌우의 A+B의 최소값을 확인
+# A,B 들다 한 좌표가 최소인 상황이여도 어차피 1 더하는 것 때문에 결과에 영향을 주진 않음.
+results = []
+if A[-1][-1]:
+    results.append(A[-1][-1])
 for y in range(N):
     for x in range(M):
         if A[y][x]:
             continue
-        values = [
+        vals_a = [
             A[y2][x2] for y2, x2 in ((y+1, x), (y, x+1), (y-1, x), (y, x-1))
             if 0 <= y2 < N and 0 <= x2 < M and A[y2][x2]
         ]
-        if len(values) < 2:
-            continue
-        values_p = [n for n in values if n > 0]
-        values_n = [n for n in values if n < 0]
-        if mode_pn:
-            if not values_n or not values_p:
-                continue
-            mx = max(values_n)
-        else:
-            if not values_p:
-                continue
-            mx = max(values_p)
-        mn = min(values_p)
-        results.append(mn + 2 - mx)
+        vals_b = [
+            B[y2][x2] for y2, x2 in ((y+1, x), (y, x+1), (y-1, x), (y, x-1))
+            if 0 <= y2 < N and 0 <= x2 < M and B[y2][x2]
+        ]
+        if vals_a and vals_b:
+            results.append(min(vals_a) + min(vals_b) + 1)
 
-# 결과 출력
-if mode_pn:
-    print(A[-1][-1] + max(results))
-else:
-    print(A[-1][-1] + min(results))
+print(min(results) if results else -1)
