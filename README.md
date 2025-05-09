@@ -194,3 +194,5 @@
 |2025-05-07|<img src="icon/13.svg" height="18px" alt="Gold III" title="Gold III"/>|[2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|✅|[python](src/python/P2206.py)||
 |2025-05-08|<img src="icon/6.svg" height="18px" alt="Silver V" title="Silver V"/>|[2238. 경매](https://www.acmicpc.net/problem/2238)|✅|[python](src/python/P2238.py)||
 |2025-05-08|<img src="icon/12.svg" height="18px" alt="Gold IV" title="Gold IV"/>|[13975. 파일 합치기 3](https://www.acmicpc.net/problem/13975)|✅|[python](src/python/P13975.py)||
+|2025-05-09|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1173. 운동](https://www.acmicpc.net/problem/1173)|✅|[python](src/python/P1173.py)||
+|2025-05-09|<img src="icon/14.svg" height="18px" alt="Gold II" title="Gold II"/>|[5214. 환승](https://www.acmicpc.net/problem/5214)|🟥|[python](src/python/P5214.py)||
