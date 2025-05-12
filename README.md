@@ -199,3 +199,4 @@
 |2025-05-10|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[16130. 벌점 (DemeritPoints)](https://www.acmicpc.net/problem/16130)|✅|[python](src/python/P16130.py)||
 |2025-05-10|<img src="icon/14.svg" height="18px" alt="Gold II" title="Gold II"/>|[5214. 환승](https://www.acmicpc.net/problem/5214)|🟥|[python](src/python/P5214.py)||
 |2025-05-11|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[15098. No Duplicates](https://www.acmicpc.net/problem/15098)|✅|[python](src/python/P15098.py)||
+|2025-05-12|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[10103. 주사위 게임](https://www.acmicpc.net/problem/10103)|✅|[python](src/python/P10103.py)||
