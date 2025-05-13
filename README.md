@@ -200,3 +200,4 @@
 |2025-05-10|<img src="icon/14.svg" height="18px" alt="Gold II" title="Gold II"/>|[5214. 환승](https://www.acmicpc.net/problem/5214)|🟥|[python](src/python/P5214.py)||
 |2025-05-11|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[15098. No Duplicates](https://www.acmicpc.net/problem/15098)|✅|[python](src/python/P15098.py)||
 |2025-05-12|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[10103. 주사위 게임](https://www.acmicpc.net/problem/10103)|✅|[python](src/python/P10103.py)||
+|2025-05-13|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[25165. 영리한 아리의 포탈 타기](https://www.acmicpc.net/problem/25165)|✅|[python](src/python/P25165.py)||
