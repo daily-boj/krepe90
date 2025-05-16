@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/5354
-# 2025-05-17 / 5354. J박스 / Bronze III
+# 2025-05-16 / 5354. J박스 / Bronze III
 
 T = int(input())
 
