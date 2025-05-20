@@ -207,3 +207,4 @@
 |2025-05-17|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[7600. 문자가 몇갤까](https://www.acmicpc.net/problem/7600)|✅|[python](src/python/P7600.py)||
 |2025-05-18|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1568. 새](https://www.acmicpc.net/problem/1568)|✅|[python](src/python/P1568.py)||
 |2025-05-19|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10708. 크리스마스 파티](https://www.acmicpc.net/problem/10708)|✅|[python](src/python/P10708.py)||
+|2025-05-20|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10471. 공간을 만들어 봅시다](https://www.acmicpc.net/problem/10471)|✅|[python](src/python/P10471.py)||
