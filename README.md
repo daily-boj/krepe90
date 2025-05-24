@@ -210,3 +210,4 @@
 |2025-05-20|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[10471. 공간을 만들어 봅시다](https://www.acmicpc.net/problem/10471)|✅|[python](src/python/P10471.py)||
 |2025-05-22|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[15947. 아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947)|✅|[python](src/python/P15947.py)||
 |2025-05-23|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[30501. 관공... 어찌하여 목만 오셨소...](https://www.acmicpc.net/problem/30501)|✅|[python](src/python/P30501.py)||
+|2025-05-24|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1350. 진짜 공간](https://www.acmicpc.net/problem/1350)|✅|[python](src/python/P1350.py)||
