@@ -213,3 +213,4 @@
 |2025-05-24|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[1350. 진짜 공간](https://www.acmicpc.net/problem/1350)|✅|[python](src/python/P1350.py)||
 |2025-05-25|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[28097. 모범생 포닉스](https://www.acmicpc.net/problem/28097)|✅|[python](src/python/P28097.py)||
 |2025-05-26|<img src="icon/2.svg" height="18px" alt="Bronze IV" title="Bronze IV"/>|[2530. 인공지능 시계](https://www.acmicpc.net/problem/2530)|✅|[python](src/python/P2530.py)||
+|2025-05-27|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[7489. 팩토리얼](https://www.acmicpc.net/problem/7489)|✅|[python](src/python/P7489.py)||
