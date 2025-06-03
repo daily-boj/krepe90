@@ -219,3 +219,4 @@
 |2025-05-30|<img src="icon/3.svg" height="18px" alt="Bronze III" title="Bronze III"/>|[15921. 수찬은 마린보이야!!](https://www.acmicpc.net/problem/15921)|✅|[python](src/python/P15921.py)||
 |2025-05-31|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[17283. I am Groot](https://www.acmicpc.net/problem/17283)|✅|[python](src/python/P17283.py)||
 |2025-06-02|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[2154. 수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)|✅|[python](src/python/P2154.py)||
+|2025-06-03|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[23321. 홍익 댄스파티](https://www.acmicpc.net/problem/23321)|✅|[python](src/python/P23321.py)||
