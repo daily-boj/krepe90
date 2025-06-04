@@ -220,3 +220,4 @@
 |2025-05-31|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[17283. I am Groot](https://www.acmicpc.net/problem/17283)|✅|[python](src/python/P17283.py)||
 |2025-06-02|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[2154. 수 이어 쓰기 3](https://www.acmicpc.net/problem/2154)|✅|[python](src/python/P2154.py)||
 |2025-06-03|<img src="icon/5.svg" height="18px" alt="Bronze I" title="Bronze I"/>|[23321. 홍익 댄스파티](https://www.acmicpc.net/problem/23321)|✅|[python](src/python/P23321.py)||
+|2025-06-04|<img src="icon/4.svg" height="18px" alt="Bronze II" title="Bronze II"/>|[7567. 그릇](https://www.acmicpc.net/problem/7567)|✅|[python](src/python/P7567.py)||
